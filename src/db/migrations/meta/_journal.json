@@ -15,6 +15,13 @@
       "when": 1752107275043,
       "tag": "0001_ordinary_chameleon",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752160317767,
+      "tag": "0002_flashy_fantastic_four",
+      "breakpoints": true
     }
   ]
 }
